@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514574275137",
+    "project_id": "qrshift-6d574",
+    "storage_bucket": "qrshift-6d574.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514574275137:android:feff007652b2adfb1c6cc0",
+        "android_client_info": {
+          "package_name": "com.qrshift.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhxV0fos1Wcv9iG-btVxlKwhevrmUcYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
