@@ -22,6 +22,14 @@ Stay tuned for updates!
 - `qr_flutter` package for QR code generation
 - Local storage for history and image saving
 
+## 📲 Download
+
+You can download the latest version of QRShift and install it manually on your Android phone:
+
+👉 [Download QRShift APK](https://github.com/xdTrickster04/QRShift/releases/latest)
+
+*Note: You may need to allow installation from unknown sources on your device.*
+
 ## 📦 Installation (for developers)
 
 ```bash
