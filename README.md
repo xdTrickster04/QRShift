@@ -11,7 +11,7 @@
 
 ## 🚧 Upcoming Features
 
-We are currently working on upgrading the app with **dynamic QR code functionality**. This feature will allow users to update the destination of a QR code (link or text) **without changing the QR image itself**.
+We are currently working on upgrading the app with **dynamic QR code functionality**. This feature needs funding, which we don't have right now, and will allow users to update the destination of a QR code (link or text) **without changing the QR image itself**.
 
 Stay tuned for updates!
 
